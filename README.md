@@ -105,7 +105,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgements
 Datasets from Kaggle.
 Libraries like scikit-learn, NLTK, and TensorFlow.
-css
-Copy code
-
-Feel free to modify it based on your specific project details!
