@@ -1,5 +1,4 @@
 # Sentiment-Analysis-Using-Machine-Learning
-# Sentiment Analysis Project
 
 ## Overview
 This project implements a **Sentiment Analysis** model to classify textual data as positive, negative, or neutral. It utilizes machine learning and natural language processing (NLP) techniques to analyze the sentiment of input text. 
@@ -57,20 +56,35 @@ Directory Structure
 css
 Copy code
 sentiment-analysis/
+
 ├── data/
+
 │   └── dataset.csv
+
 ├── models/
+
 │   └── sentiment_model.pkl
+
 ├── src/
+
 │   ├── preprocess.py
+
 │   ├── train_model.py
+
 │   ├── evaluate_model.py
+
 │   ├── predict.py
+
 │   └── utils.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── LICENSE
+
 Results
+
 Model Accuracy: 90%
 F1 Score: 0.87
 Example Predictions:
