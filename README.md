@@ -28,8 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/sentiment-analysis.git
-cd sentiment-analysis
+git clone cd sentiment-analysis
 Prepare the dataset:
 
 Place the dataset in the data/ folder.
